@@ -9,6 +9,10 @@ ATOKで作成をしていますが、「MS-IME」や「Google日本語入力」�
 ATOK Syncを使用するとスマホ側に辞書を同期させる事も可能です。<br>
 ![Preview](https://github.com/reindex-ot/HeavenBurnsRed_IME/blob/main/Images/Preview.png?raw=true)
 
+## サンプル
+![sample2](https://github.com/reindex-ot/HeavenBurnsRed_IME/blob/main/Images/sample2.png?raw=true)
+![sample3](https://github.com/reindex-ot/HeavenBurnsRed_IME/blob/main/Images/sample3.png?raw=true)
+
 ## ダウンロード
 [こちら](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/releases)からどうぞ
 
