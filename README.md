@@ -1,12 +1,12 @@
 # HeavenBurnsRed IME辞書
 ## IME辞書について
 Heaven Burns Redの辞書ファイルです。<br>
-これを使用すると「キャラクター名」や「セラフの名前」「セラフィムコード」と言った専門用語が登録されます。<br>
-ATOKの辞書エディタで作成をしています。
+これを使用すると「キャラクター名」や「セラフの名前」「セラフィムコード」と言った専門用語が登録されます。ATOKの辞書エディタで作成をしています。
 
 ## 使用方法
 各IMEに辞書ファイルをインポートさせる事で辞書が適用されます。<br>
 ATOKで作成をしていますが、「MS-IME」や「Google日本語入力」のインポートにも対応しています。<br>
+ATOK Syncを使用するとスマホ側に辞書を同期させる事も可能です。<br>
 ![Preview](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/blob/main/Images/Preview.png?raw=true)
 
 ## 辞書の更新について
