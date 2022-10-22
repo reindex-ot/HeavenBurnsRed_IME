@@ -7,7 +7,7 @@ Heaven Burns Redの辞書ファイルです。<br>
 各IMEに辞書ファイルをインポートさせる事で辞書が適用されます。<br>
 ATOKで作成をしていますが、「MS-IME」や「Google日本語入力」のインポートにも対応しています。<br>
 ATOK Syncを使用するとスマホ側に辞書を同期させる事も可能です。<br>
-![Preview](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/blob/main/Images/Preview.png?raw=true)
+![Preview](https://github.com/reindex-ot/HeavenBurnsRed_IME/blob/main/Images/Preview.png?raw=true)
 
 ## ダウンロード
 [こちら](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/releases)からどうぞ
