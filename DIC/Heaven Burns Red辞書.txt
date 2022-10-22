@@ -1,4 +1,4 @@
-!!ATOK_TANGO_TEXT_HEADER_1
+!!ATOK_TANGO_TEXT_HEADER
 !!一覧出力
 !!Heaven Burns Red辞書
 !!単語種類;登録単語(*)
