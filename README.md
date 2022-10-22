@@ -10,7 +10,7 @@ ATOK Syncを使用するとスマホ側に辞書を同期させる事も可能�
 ![Preview](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/blob/main/Images/Preview.png?raw=true)
 
 ## ダウンロード
-[こちらからどうぞ](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/tree/main/DIC)
+[こちらからどうぞ](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/releases)
 
 ## 辞書の更新について
 専門用語が多いのでひとりでは無理に感じた事や、辞書の改善や無駄な用語の削除など色々な最適化をすべきと思っています。<br>
