@@ -1,6 +1,6 @@
 # HeavenBurnsRed IME辞書
 ## HeavenBurnsRed IME辞書について
-Heaven Burns Redの辞書ファイルです。<br>
+AppStore、GooglePlay、Steamで配信中のゲーム、[Heaven Burns Red](https://heaven-burns-red.com/)の辞書ファイルです。<br>
 これを使用すると「キャラクター名」や「セラフの名前」「セラフィムコード」と言った専門用語が登録されます。ATOKの辞書エディタで作成をしています。
 
 ## 使用方法
