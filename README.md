@@ -1,5 +1,5 @@
 # HeavenBurnsRed IME辞書
-## IME辞書について
+## HeavenBurnsRed IME辞書について
 Heaven Burns Redの辞書ファイルです。<br>
 これを使用すると「キャラクター名」や「セラフの名前」「セラフィムコード」と言った専門用語が登録されます。ATOKの辞書エディタで作成をしています。
 
@@ -10,13 +10,13 @@ ATOK Syncを使用するとスマホ側に辞書を同期させる事も可能�
 ![Preview](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/blob/main/Images/Preview.png?raw=true)
 
 ## ダウンロード
-[こちらからどうぞ](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/releases)
+[こちら](https://github.com/reindex-ot/HeavenBurnsRed_IMEDic/releases)からどうぞ
 
 ## 辞書の更新について
-専門用語が多いのでひとりでは無理に感じた事や、辞書の改善や無駄な用語の削除など色々な最適化をすべきと思っています。<br>
+専門用語が多いのでひとりでは無理に感じた事や、辞書の改善や無駄な用語の削除など色々な最適化をすべきと思っています。
 「Pull Request」や「Issues」を有効利用してください。辞書は単なるテキストファイルなので直接編集も可能です。
 
 ## 注意
 この辞書ファイルは非公式で作成している物です。<br>
-「Wright Flyer Studios」や「Key」には一切関係はしていません。
+「Wright Flyer Studios」や「Key」には一切関与はしていません。
 
